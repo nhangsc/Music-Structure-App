@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MusicalApp</string>
+    <string name="category_songs">Songs</string>
+    <string name="category_albums">Albums</string>
+    <string name="category_artists">Artists</string>
+    <string name="category_player">Player</string>
+    <string name="search">Search</string>
+    <string name="cast">Cast</string>
+    <string name="settings">Settings</string>
+    <string name="songs">Songs</string>
+    <string name="albums">Albums</string>
+    <string name="album1">Slowhand</string>
+    <string name="album2">Now</string>
+    <string name="album3">Everything</string>
+    <string name="playlists">Playlists</string>
+    <string name="artists">Artists</string>
+    <string name="player">Player</string>
+    <string name="number1">5 Songs</string>
+    <string name="number2">3 Songs</string>
+    <string name="number3">2 Songs</string>
+
+    <string name="song1">Wonderful Tonight</string>
+    <string name="song2">Lay Down Sally</string>
+    <string name="song3">Next Time You See Her</string>
+    <string name="song4">May You Never</string>
+    <string name="song5">Mean Old Frisco</string>
+    <string name="song6">You Are My Everything</string>
+    <string name="song7">Hello</string>
+    <string name="song8">I Have I Dream</string>
+    <string name="song9">Beautiful Girl</string>
+    <string name="song10">My Way</string>
+    <string name="artist1">Eric Clapton</string>
+    <string name="song_title">Song Title</string>
+    <string name="track_playlist">Track Playlist</string>
+</resources>
